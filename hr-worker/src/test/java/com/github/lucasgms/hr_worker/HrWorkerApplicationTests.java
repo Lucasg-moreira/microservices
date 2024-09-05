@@ -1,10 +1,10 @@
-package com.github.lucasgms.microservices;
+package com.github.lucasgms.hr_worker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroservicesApplicationTests {
+class HrWorkerApplicationTests {
 
 	@Test
 	void contextLoads() {

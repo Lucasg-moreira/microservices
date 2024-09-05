@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.lucasgms</groupId>
-    <artifactId>microservices</artifactId>
+    <artifactId>hr-worker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>microservices</name>
+    <name>hr-worker</name>
     <description>project to lean about microservices</description>
 
     <properties>

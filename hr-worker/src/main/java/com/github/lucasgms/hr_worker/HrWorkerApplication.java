@@ -1,13 +1,13 @@
-package com.github.lucasgms.microservices;
+package com.github.lucasgms.hr_worker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroservicesApplication {
+public class HrWorkerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroservicesApplication.class, args);
+		SpringApplication.run(HrWorkerApplication.class, args);
 	}
 
 }

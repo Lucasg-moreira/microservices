@@ -1,13 +1,7 @@
 package com.github.lucasgms.hr_payroll.entities;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Table;
 import java.io.Serializable;
 
-@Entity
-@Table(name = "tb_payment")
 public class Payment implements Serializable {
     private static final long serialVersionUID = 1L;
 
